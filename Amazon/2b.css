@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.amazon-btn {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 50px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.amazon-btn:hover {
+    background-color: rgb(247, 215, 57);
+}
+
+a {
+    text-decoration: none;
+}
