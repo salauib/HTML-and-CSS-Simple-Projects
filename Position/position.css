@@ -20,7 +20,7 @@ body {
 }
 
 .side-bar {
-    background-color: green;
+    background-color: rgb(1, 143, 11);
     color: white;
     position: fixed;
     left: 0;
