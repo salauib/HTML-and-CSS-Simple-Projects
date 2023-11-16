@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+.container {
+    border: 1px solid green;
+    border-radius: 2px;
+    padding: 5px;
+    width: 50%;
+}
+
 .home-link:hover {
     color: red;
 }
