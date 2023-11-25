@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    background-color: black;
+    background-color: rgb(73, 69, 69);
     color: white;
     position: fixed;
     top: 0;
@@ -20,7 +20,7 @@ body {
 }
 
 .side-bar {
-    background-color: rgb(1, 143, 11);
+    background-color: rgb(18, 83, 22);
     color: white;
     position: fixed;
     left: 0;
@@ -38,7 +38,7 @@ body {
 }
 
 .absolute2 {
-    background-color: black;
+    background-color: rgb(73, 69, 69);
     position: absolute;
     color: white;
     bottom: 10px;
